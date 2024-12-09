@@ -183,7 +183,7 @@ This repository is organized to facilitate ease of access to all components of t
   - Includes `requirements.txt` for library installation and a setup guide for running the visualizations.
 
 - **Pilot Visualizations or Figures**:
-  - Stored in the [`Visualizations/`](Visualizations/README.md) folder.
+  - Stored in the [`Visualizations/`](Visualization/README.md) folder.
   - Features static and interactive outputs of the project’s key visualizations, including geospatial maps, network diagrams, and machine learning plots.
 
 ---
