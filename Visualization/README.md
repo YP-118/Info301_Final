@@ -1,6 +1,6 @@
 # Visualizations & Results
 
-This folder contains the key outputs and findings of the research project **"Uncovering Geographic Variability in Breast Cancer Biomarkers: Integrating Machine Learning and Interactive Visualizations for Global Insights"** It includes various elements that capture the analysis, visualizations, and final deliverables of the project.
+This folder contains the key outputs and findings of the research project **"Uncovering Geographic Variability in Breast Cancer Biomarkers: Integrating Machine Learning and Interactive Visualizations for Global Insights."** It includes various elements that capture the analysis, visualizations, and final deliverables of the project.
 
 ## Contents
 
