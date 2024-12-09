@@ -2,7 +2,7 @@
 
 This repository includes datasets for analyzing misinformation, focusing on environmental and general contexts. Below are the descriptions of the datasets, their origins, and how they contribute to the research.
 
-## **1. DATASETS(GSE******)
+## **1. DATASETS(GSE******)**
 ### **Description**
 - **Source**: 
 - **Content**: 
@@ -15,36 +15,74 @@ This repository includes datasets for analyzing misinformation, focusing on envi
 - 
 ### **How to Use**
 
-## **2. Filtered_Genes_KEGG_(country_name)**
+## **2. ["Step1_(country_name)"](Step1_Australia.csv)**
+
 ### **Description**
 - **Source**: 
 - **Content**: 
 - **Features**:
-  - Claims sourced from internet debates and fact-checking platforms like ClimateFeedback.org.
-  - Evidence retrieved from Wikipedia and annotated to support or refute claims.
-  - Annotations include the label categories: SUPPORTS, REFUTES, NOT_ENOUGH_INFO, and DISPUTED.
+  - 
   
 ### **Relevance to Research**
 - 
 ### **How to Use**
 
-## **3. ["Understanding and Combating Misinformation Across 16 Countries" Dataset](Main.csv)**
-### **Description**
-- **Source**: Collected as part of a global study analyzing misinformation trends across 16 countries.
-- **Content**:
-  - Data from over 54,000 participants, including their perceptions of news articles and social media use.
-  - Features include demographic data, social media habits, political alignment, and ratings of news credibility.
-- **Variables**:
-  - News types shared (political, science, celebrity, business, etc.).
-  - Cognitive reflection scores, trust levels, and social media engagement metrics.
+## **3. ["Step2_(country_name)"](Step2_Australia.csv)**
 
-### **Relevance to Research**
-- Provides cross-cultural insights into how misinformation spreads and is perceived globally.
-- Offers demographic and behavioral data for understanding user credibility in different cultural contexts.
+### **Description**
+- **Source**: 
+- **Content**: 
+- **Features**:
+  - 
   
+### **Relevance to Research**
+- 
 ### **How to Use**
-- Integrate with other datasets to analyze regional and cultural variations in misinformation patterns.
-- Use participant ratings and engagement metrics to study the relationship between social media habits and misinformation susceptibility.
+
+
+## **4. ["KEGG_Enrichment_Results_(country_name)"](Main.csv)**
+
+### **Description**
+- **Source**: 
+- **Content**: 
+- **Features**:
+  - 
+  
+### **Relevance to Research**
+- 
+### **How to Use**
+
+
+## **5. Filtered_Genes_KEGG_(country_name)**
+### **Description**
+- **Source**: 
+- **Content**: 
+- **Features**:
+  - 
+  
+### **Relevance to Research**
+- 
+### **How to Use**
+
+
+## **6. (country_name).txt**
+### **Description**
+- **Source**: 
+- **Content**: 
+- **Features**:
+  - 
+  
+### **Relevance to Research**
+- 
+### **How to Use**
+
+
+
+
+
+
+
+
 
 
 ## **Integration Plan**
