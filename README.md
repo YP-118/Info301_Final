@@ -172,19 +172,17 @@ This repository is organized to facilitate ease of access to all components of t
 
 - **Code for Simulations, Data Processing, and Visualizations**:
   - Located in the [`Code/`](Code/READ.md) directory.
-  - Includes `data_preprocessing.ipynb` for cleaning and integrating datasets, and `visualization_tools.py` for generating the project’s visualizations.
 
 - **Sample Datasets or Processed Data**:
   - Found in the [`Data/`](Data/README.md) folder.
-  - Contains raw and processed datasets, including Climate-FEVER and the Global Misinformation Dataset.
+  - Contains raw and processed datasets.
 
 - **Documentation for Dependencies and Environment Setup**:
   - Detailed in the [`Docs/`](Docs/READ.md) directory.
-  - Includes `requirements.txt` for library installation and a setup guide for running the visualizations.
-
+    
 - **Pilot Visualizations or Figures**:
   - Stored in the [`Visualizations/`](Visualization/README.md) folder.
-  - Features static and interactive outputs of the project’s key visualizations, including geospatial maps, network diagrams, and machine learning plots.
+  - Visualization methods:Ploty for interactive (Volcano plot and number of datasets per country), GeoJSON for the template of world map, Folium for visualization and specific info within a country.
 
 ---
 
