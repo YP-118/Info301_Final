@@ -21,8 +21,8 @@ This project represents the culmination of collaborative effort, thoughtful guid
          - `networkx` and `dash` for creating network diagrams and web-based visualizations.
       - **Gephi**: For advanced network analysis and modularity-based clustering.
       - **GitHub**: For version control, collaboration, and hosting the repository. 
-   - **Climate-FEVER Dataset**: A pivotal dataset for misinformation analysis, available through the Sustainable Finance Lab at the University of Zurich.
-   - **Global Misinformation Dataset**: Behavioral and demographic data, which provided valuable insights into misinformation susceptibility.
+   - **AAA Dataset**: A pivotal dataset for misinformation analysis, available through the Sustainable Finance Lab at the University of Zurich.
+   - **AAA Dataset**: Behavioral and demographic data, which provided valuable insights into misinformation susceptibility.
    - **AIGC Tools**: Tools such as ChatGPT contributed to structuring, refining, and enhancing our documentation and research outputs.
 
 - **Project Summary**:
@@ -55,7 +55,7 @@ This project represents the culmination of collaborative effort, thoughtful guid
 
 ## **Overview**
 
----
+---AAA
 
 ---
 
@@ -89,39 +89,28 @@ This project represents the culmination of collaborative effort, thoughtful guid
 
 ## **Datasets**
 
-### **Climate-FEVER**
-- Focuses on climate-related misinformation with claim-evidence annotations categorized as SUPPORTS, REFUTES, or NOT_ENOUGH_INFO.
+### **AAA**
+- 
 
-### **Global Misinformation Dataset**
-- Behavioral data from 16 countries, capturing demographic influences on misinformation perception.
+### **AA**
+- 
 
 ---
 
 ## **Applications**
 
-1. **Policy Development**:
+1. **AA**:
    - Identify misinformation hotspots and track the effectiveness of interventions.
    - Design culturally sensitive campaigns targeting misinformation-prone regions.
 
-2. **Media and Journalism**:
+2. **AA**:
    - Tailor fact-checking strategies based on audience demographics.
    - Monitor and visualize the impact of fact-checking efforts.
 
-3. **Academic Research**:
+3. **AA**:
    - Explore correlations between cultural factors and misinformation susceptibility.
    - Analyze temporal trends and the role of social context in misinformation acceptance.
 
-4. **Social Media Platforms**:
-   - Enhance content moderation strategies using clustering and network analysis.
-   - Develop user-specific interventions to mitigate misinformation spread.
-
-5. **Education and Media Literacy**:
-   - Create engaging, data-driven materials to teach critical thinking and media literacy.
-   - Design programs tailored to regional misinformation vulnerabilities.
-
-6. **NGO Advocacy**:
-   - Demonstrate the societal impact of misinformation to secure resources.
-   - Guide the development of cross-cultural programs improving information literacy.
 
 ---
 
@@ -167,17 +156,14 @@ pip install -r requirements.txt
 ---
 
 ## **Demo Video**
-The following video shows a demonstration of the 3 interactive visualizations.
-https://duke.box.com/s/jfbl3fo9qktoyiodwvlqmhp6uciqrwcl
+VIDEO LINK IS HERE
 
 
 ---
 
 ## **Statement of Intellectual and Professional Growth**
 
-This project has been a transformative experience in our academic and professional journey. Through the process of integrating diverse datasets and leveraging advanced visualization techniques, we have gained a deeper understanding of how to approach complex problems with interdisciplinary tools. The hands-on work with network analysis, interactive visualizations, and machine learning has sharpened our technical skills and enriched our ability to convey complex data narratives effectively. Collaborating with our peers on this project has also enhanced our teamwork and communication abilities, preparing us for future roles in data-driven research and policy-making.
 
-The exploration of misinformation dynamics has been particularly meaningful, as it connects computational methods with real-world social challenges. The skills and insights gained through this course will undoubtedly influence our approach to future academic and professional endeavors, fostering a commitment to innovation and ethical application of data science.
 
 ---
 
@@ -215,5 +201,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **References**
 This project builds upon datasets and methodologies outlined in:
-- Climate-FEVER: [Dataset Paper](https://arxiv.org/abs/2005.00857)
-- Global Misinformation Dataset: [Understanding and combatting misinformation across 16 countries on six continents](https://doi.org/10.1038/s41562-023-01641-6)
+- aa
+- aa
