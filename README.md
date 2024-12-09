@@ -70,7 +70,7 @@ This project represents the culmination of collaborative effort, thoughtful guid
    - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
 - **[`Discussions/`](Discussions/READ.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
 - **[`Visualizations/`](Visualization/README.md)**: Output visualizations and analysis results.
-- **[`Docs/`]()**: Supplementary documentation, final report.
+- **[`Docs/`](Docs/READ.md)**: Supplementary documentation, final report.
 
 ---
 
@@ -179,7 +179,7 @@ This repository is organized to facilitate ease of access to all components of t
   - Contains raw and processed datasets, including Climate-FEVER and the Global Misinformation Dataset.
 
 - **Documentation for Dependencies and Environment Setup**:
-  - Detailed in the [`Docs/`](Docs/README.md) directory.
+  - Detailed in the [`Docs/`](Docs/READ.md) directory.
   - Includes `requirements.txt` for library installation and a setup guide for running the visualizations.
 
 - **Pilot Visualizations or Figures**:
