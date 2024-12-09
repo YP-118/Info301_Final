@@ -161,8 +161,9 @@ VIDEO LINK IS HERE
 ---
 
 ## **Statement of Intellectual and Professional Growth**
+This project has been a pivotal experience in both our academic and professional growth. By integrating diverse datasets and applying advanced visualization techniques, we have developed a deeper understanding of how to tackle complex problems using interdisciplinary tools. Working hands-on with network analysis, interactive visualizations, and machine learning has not only strengthened our technical skills but also enhanced our ability to communicate complex data insights effectively. Collaborative efforts with our peers have improved our teamwork and communication, equipping us for future roles in data-driven research and policy-making.
 
-
+The exploration of misinformation dynamics has been particularly impactful, bridging computational methods with pressing social issues. The knowledge and skills we have gained from this course will undoubtedly shape our future academic and professional endeavors, fostering a commitment to innovation and the ethical use of data science.
 
 ---
 
