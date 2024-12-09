@@ -1,4 +1,4 @@
-# DATA
+# Data
 
 This repository includes datasets for analyzing misinformation, focusing on environmental and general contexts. Below are the descriptions of the datasets, their origins, and how they contribute to the research.
 
