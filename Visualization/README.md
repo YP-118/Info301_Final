@@ -13,9 +13,8 @@ This folder contains the key outputs and findings of the research project **"Vis
    - Folder: `Visualization/`  
    - Description: Includes high-resolution images of the all the networks generated as well as the gephi files. 
    - Deployed Visualizations:
-      - [Intellect vs. Social Media Use](https://dash-dashboard-7nzc.onrender.com)
-      - [Interactive Network](https://dash-dashboard-1.onrender.com)
-      - [Interactive Map](map.html)
+      - [Interactive Map](https://laurisisme.github.io/interactive_map/)
+      - 
          - Download the file and run in browser
 
 
