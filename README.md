@@ -160,7 +160,7 @@ pip install -r requirements.txt
 ## **Final Poster**
 <p align="center">
   <kbd>
-    <img src="Visualizations/INFOSCI301_Final_Poster.png" alt="Final Poster" width="600"/>
+    <img src="Poster/INFORSCI 103 - Poster 3.pdf" alt="Final Poster" width="600"/>
   </kbd>
 </p>
 
