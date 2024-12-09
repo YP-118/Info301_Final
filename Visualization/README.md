@@ -5,7 +5,7 @@ This folder contains the key outputs and findings of the research project **"Vis
 ## Contents
 
 1. **Final Poster**  
-   - File: `.pdf`  
+   - File: `Poster/INFORSCI 103 - Poster 3.pdf`  
    - Description: The final academic poster summarizing the project's background, methodology, key results, and practical implications. This is the main visual representation of the research and is designed for presentation at academic conferences or symposiums.  
 
 2. **Visualizations**  
