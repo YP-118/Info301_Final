@@ -68,7 +68,7 @@ This project represents the culmination of collaborative effort, thoughtful guid
    - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
    - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
    - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
-- **[`Discussions/`](Discussions/README.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
+- **[`Discussions/`](Discussions/READ.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
 - **[`Visualizations/`](Visualizations/README.md)**: Output visualizations and analysis results.
 - **[`Docs/`](Docs/README.md)**: Supplementary documentation, final report.
 
