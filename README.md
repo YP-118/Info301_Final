@@ -69,8 +69,8 @@ This project represents the culmination of collaborative effort, thoughtful guid
    - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
    - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
 - **[`Discussions/`](Discussions/READ.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
-- **[`Visualizations/`](Visualizations/README.md)**: Output visualizations and analysis results.
-- **[`Docs/`](Docs/README.md)**: Supplementary documentation, final report.
+- **[`Visualizations/`](Visualization/README.md)**: Output visualizations and analysis results.
+- **[`Docs/`]()**: Supplementary documentation, final report.
 
 ---
 
