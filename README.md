@@ -61,7 +61,7 @@ This project represents the culmination of collaborative effort, thoughtful guid
 
 ## **Repository Structure**
 
-- **[`Data/`](Data/README.md)**: Contains the datasets used in the project, including:
+- **[`Data/`](Data)**: Contains the datasets used in the project, including:
   - **Climate-FEVER**: Validated climate-related claims with evidence annotations.
   - **Global Misinformation Dataset**: Behavioral and demographic data from 16 countries.
 - **[`Code/`](Code/README.md)**: Python scripts for data preprocessing, integration, and visualization.
