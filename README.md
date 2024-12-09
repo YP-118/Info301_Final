@@ -61,9 +61,8 @@ This project represents the culmination of collaborative effort, thoughtful guid
 
 ## **Repository Structure**
 
-- **[`Data/`](Data)**: Contains the datasets used in the project, including:
-  - **Climate-FEVER**: Validated climate-related claims with evidence annotations.
-  - **Global Misinformation Dataset**: Behavioral and demographic data from 16 countries.
+- **[`Data/`](Data/README.md)**: Contains the datasets used in the project, including:
+  - **Global Breast-cancer Dataset**:Processed data from 5 countries.
 - **[`Code/`](Code/README.md)**: Python scripts for data preprocessing, integration, and visualization.
    - **`data_preprocessing.ipynb`**: Scripts for loading and aligning datasets.
    - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
