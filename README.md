@@ -28,7 +28,7 @@ This project represents the culmination of collaborative effort, thoughtful guid
 - **Project Summary**:
 <p align="center">
   <kbd>
-    <img src="mindmap.png" alt="Flowchart1" width="600"/>
+    <img src="figure1.png" alt="Flowchart1" width="600"/>
   </kbd>
 </p>
 
