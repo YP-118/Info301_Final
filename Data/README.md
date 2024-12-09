@@ -15,6 +15,18 @@ This repository includes datasets for analyzing misinformation, focusing on envi
 - 
 ### **How to Use**
 
+## **2. [Filtered_Genes_KEGG_(country_name)]**
+### **Description**
+- **Source**: 
+- **Content**: 
+- **Features**:
+  - Claims sourced from internet debates and fact-checking platforms like ClimateFeedback.org.
+  - Evidence retrieved from Wikipedia and annotated to support or refute claims.
+  - Annotations include the label categories: SUPPORTS, REFUTES, NOT_ENOUGH_INFO, and DISPUTED.
+  
+### **Relevance to Research**
+- 
+### **How to Use**
 
 ## **3. ["Understanding and Combating Misinformation Across 16 Countries" Dataset](Main.csv)**
 ### **Description**
