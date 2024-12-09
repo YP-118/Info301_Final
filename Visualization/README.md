@@ -15,7 +15,6 @@ This folder contains the key outputs and findings of the research project **"Vis
    - Deployed Visualizations:
       - [Interactive Map](https://laurisisme.github.io/interactive_map/)
       - 
-         - Download the file and run in browser
 
 
 ---
