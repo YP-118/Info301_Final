@@ -2,7 +2,7 @@
 
 This repository includes datasets for analyzing misinformation, focusing on environmental and general contexts. Below are the descriptions of the datasets, their origins, and how they contribute to the research.
 
-## **1. [DATASETS](GSE******)**
+## **1. DATASETS(GSE******)**
 ### **Description**
 - **Source**: 
 - **Content**: 
@@ -15,7 +15,7 @@ This repository includes datasets for analyzing misinformation, focusing on envi
 - 
 ### **How to Use**
 
-## **2. [Filtered_Genes_KEGG_(country_name)]**
+## **2. Filtered_Genes_KEGG_(country_name)**
 ### **Description**
 - **Source**: 
 - **Content**: 
