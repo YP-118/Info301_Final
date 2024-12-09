@@ -171,7 +171,7 @@ VIDEO LINK IS HERE
 This repository is organized to facilitate ease of access to all components of the project. Below is an overview of where to find key resources:
 
 - **Code for Simulations, Data Processing, and Visualizations**:
-  - Located in the [`Code/`](Code/README.md) directory.
+  - Located in the [`Code/`](Code/READ.md) directory.
   - Includes `data_preprocessing.ipynb` for cleaning and integrating datasets, and `visualization_tools.py` for generating the project’s visualizations.
 
 - **Sample Datasets or Processed Data**:
