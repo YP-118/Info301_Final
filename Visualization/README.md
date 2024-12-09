@@ -11,7 +11,7 @@ This folder contains the key outputs and findings of the research project **"Unc
 2. **Visualizations**  
    - Description: Includes high-resolution images of key graphs and charts used in the analysis, such as geospatial maps, SHAP visualizations, and network diagrams, as well as links to the deployed interactive visualizations. These visuals illustrate core findings and serve as supplementary materials for the poster.  
    - Folder: `Visualization/`  
-   - Description: Includes high-resolution images of the all the networks generated as well as the gephi files. 
+   - Description: Includes images and volcano_plot.html files. 
    - Deployed Visualizations:
       - [Interactive Map](https://laurisisme.github.io/interactive_map/)
       - 
