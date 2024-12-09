@@ -63,7 +63,7 @@ This project represents the culmination of collaborative effort, thoughtful guid
 
 - **[`Data/`](Data/README.md)**: Contains the datasets used in the project, including:
   - **Global Breast-cancer Dataset**:Processed data from 5 countries.
-- **[`Code/`](Code/README.md)**: Python scripts for data preprocessing, integration, and visualization.
+- **[`Code/`](Code/READ.md)**: Python scripts for data preprocessing, integration, and visualization.
    - **`data_preprocessing.ipynb`**: Scripts for loading and aligning datasets.
    - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
    - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
