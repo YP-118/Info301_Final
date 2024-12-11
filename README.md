@@ -54,7 +54,7 @@ To navigate through this repository, please follow the instructions below:
 ### Pilot Visualizations & Figures
 - Sample visualizations and figures are available in the **`/Visualization`** folder.
 
-## Requirements
+### Requirements
 
 To get started with the project, you will need to install the following dependencies:
 
