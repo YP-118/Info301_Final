@@ -48,10 +48,8 @@ Throughout this course, we have deepened our understanding of data visualization
   - [Demo Video](#demo-video)
   - [Poster](#poster)
 - [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
-- [Data](#data)
-- [Code](#code)
-- [Visualizations](#visualizations)
-- [Dependencies & Environment Setup](#dependencies-environment-setup)
+- [Navigation Instructions](#Navigation-Instructions)
+- [Implementation](#Implementation)
 - [Final APP](#final-app)
 
 ## Navigation Instructions
