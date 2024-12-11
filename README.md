@@ -20,7 +20,7 @@ Each team member contributed according to their strengths, ensuring a balanced a
 We would like to express our gratitude to the following individuals and resources:
 - **Prof. Luyao Zhang** for guidance and support throughout the course.
 - Our **classmates** for their valuable feedback and collaboration.
-- **AIGC tools** like **ChatGPT** for assistance with coding, ideas, and suggestions.
+- **AIGC tools** like **ChatGPT** for assistance with coding, ideas, and suggestions; **Whimsical** for flowchart generation.
 - **NCBI** for the breast cancer datasets and **GEOJSON** for geographic data.
 
 ## Embedded Media
