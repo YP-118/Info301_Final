@@ -36,13 +36,19 @@ Original Demo Video can be found [here](./Docs/Demo.mp4).
 Throughout this course, we have deepened our understanding of data visualization techniques and their role in effectively communicating complex information. This project has enhanced our ability to design interactive and meaningful visualizations, and it has also improved our skills in presenting data-driven insights. The collaborative nature of this project has strengthened our teamwork and communication skills, as we worked together to solve data-related challenges and incorporate visual storytelling in a professional setting.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Information](#project-information)
+- [Disclaimer](#disclaimer)
+- [Contribution Statement](#contribution-statement)
+- [Acknowledgments](#acknowledgments)
+- [Embedded Media](#embedded-media)
+  - [Demo Video](#demo-video)
+  - [Poster](#poster)
+- [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
 - [Data](#data)
 - [Code](#code)
 - [Visualizations](#visualizations)
 - [Dependencies & Environment Setup](#dependencies-environment-setup)
-- [Acknowledgments](#acknowledgments)
-- [Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+- [Final APP](#final-app)
 
 ## Navigation Instructions
 To navigate through this repository, please follow the instructions below:
