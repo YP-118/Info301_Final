@@ -2,202 +2,50 @@
 
 ## Project Information
 
-- **Authors**: Yian Pei,  Munkh-Orshikh Munkhbold, Lauris Vo
-
+- **Authors**: Yian Pei, Munkh-Orshikh Munkhbold, Lauris Vo
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 
-- **Disclaimer**: Submissions to the Final Project for INFOSCI 301: Data Visualization and Information Aesthetics at Duke Kunshan University final project instructed by Prof. Luyao Zhang at Duke Kunshan University in Autumn 2024.
+## Disclaimer
+This is the final project for **INFOSCI 301: Data Visualization and Information Aesthetics**, instructed by **Prof. Luyao Zhang** at **Duke Kunshan University** in **Autumn 2024**.
 
-- **Acknowledgments**: 
+## Acknowledgments
+We would like to express our gratitude to the following individuals and resources:
+- **Prof. Luyao Zhang** for guidance and support throughout the course.
+- Our **classmates** for their valuable feedback and collaboration.
+- **AIGC tools** like **ChatGPT** for assistance with coding, ideas, and suggestions.
+- **NCBI** for the breast cancer datasets and **GEOJSON** for geographic data.
 
-This project represents the culmination of collaborative effort, thoughtful guidance, and the invaluable support of various individuals and resources. We wish to express our sincere gratitude to the following:
-   - **Professor and Course Support**
-      - **Professor Luyao (Sunshine) Zhang**: Your insightful guidance, engaging lectures, and unwavering support throughout the INFOSCI 301: Data Visualization and Information Aesthetics course were instrumental in shaping this project. Your encouragement to push the boundaries of our learning was deeply inspiring.
-      - **Classmates**: A special thanks to our peers in INFOSCI 301 for fostering a collaborative and supportive learning environment. Your feedback, discussions, and shared enthusiasm greatly enriched the quality of our project.
-   - **Open-Source Tools and Libraries** This project heavily relied on the contributions of the open-source community. The following tools and frameworks were critical to our success:
-      - **Python Libraries**:
-         - `pandas`, `numpy`, and `matplotlib` for data manipulation and basic visualizations.
-         - `seaborn` and `plotly` for enhanced plotting capabilities and interactive visuals.
-         - `networkx` and `dash` for creating network diagrams and web-based visualizations.
-      - **Gephi**: For advanced network analysis and modularity-based clustering.
-      - **GitHub**: For version control, collaboration, and hosting the repository. 
-   - **AAA Dataset**: A pivotal dataset for misinformation analysis, available through the Sustainable Finance Lab at the University of Zurich.
-   - **AAA Dataset**: Behavioral and demographic data, which provided valuable insights into misinformation susceptibility.
-   - **AIGC Tools**: Tools such as ChatGPT contributed to structuring, refining, and enhancing our documentation and research outputs.
+## Embedded Media
+- [Demo Video](./Docs/Demo.mp4)
+- ![Poster](./Docs/Poster.pdf)
 
-- **Project Summary**:
-<p align="center">
-  <kbd>
-    <img src="figure1.png" alt="Flowchart1" width="600"/>
-  </kbd>
-</p>
+## Statement of Intellectual and Professional Growth
+Throughout this course, I have deepened my understanding of data visualization techniques and their role in effectively communicating complex information. This project has enhanced my ability to design interactive and meaningful visualizations, and it has also improved my skills in presenting data-driven insights. The collaborative nature of this project has strengthened my teamwork and communication skills, as we worked together to solve data-related challenges and incorporate visual storytelling in a professional setting.
 
-*Figure 1: Map of the research proposal. Created with Whimsical*
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Code](#code)
+- [Visualizations](#visualizations)
+- [Dependencies & Environment Setup](#dependencies-environment-setup)
+- [Acknowledgments](#acknowledgments)
+- [Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
 
----
+## Navigation Instructions
+To navigate through this repository, please follow the instructions below:
 
-## **Table of Contents**
-* [Overview](./README.md#Overview)
-* [Repository Structure](./README.md#Repository-Structure)
-* [Key Features](./README.md#Key-Features)
-* [Datasets](./README.md#Datasets)
-* [Applications](./README.md#Applications)
-* [Getting Started](./README.md#Getting-Started)
-* [Final Poster](./README.md#Final-Poster)
-* [Demo Videos](./README.md#demo-video)
-* [Contributing](./README.md#Contributing)
-* [License](./README.md#License)
-* [References](./README.md#References)
-* [Statement of Intellectual and Professional Growth](./README.md#Statement-of-Intellectual-and-Professional-Growth)
-* [Navigation Instructions](./README.md#Navigation-Instructions)
+### Code
+- The code for simulations, data processing, and visualizations can be found in the **`/code`** folder.
+
+### Sample Datasets & Processed Data
+- All datasets used in this project are located in the **`/data`** folder. This includes both raw and processed data.
+
+### Documentation for Dependencies & Environment Setup
+- Detailed instructions for setting up the environment and installing dependencies can be found in the **`/docs`** folder.
+
+### Pilot Visualizations & Figures
+- Sample visualizations and figures are available in the **`/visualizations`** folder. These include initial explorations and final presentations.
 
 ---
 
-## **Overview**
-
----AAA
-
----
-
-## **Repository Structure**
-
-- **[`Data/`](Data/README.md)**: Contains the datasets used in the project, including:
-  - **Global Breast-cancer Dataset**:Processed data from 5 countries.
-- **[`Code/`](Code/READ.md)**: Python scripts for data preprocessing, integration, and visualization.
-   - **`data_preprocessing.ipynb`**: Scripts for loading and aligning datasets.
-   - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
-   - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
-   - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
-- **[`Discussions/`](Discussions/READ.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
-- **[`Visualizations/`](Visualization/README.md)**: Output visualizations and analysis results.
-- **[`Docs/`](Docs/READ.md)**: Supplementary documentation, final report.
-
----
-
-## **Key Features**
-
-- **Data Integration**:
-  - Combines multiple datasets to explore misinformation across regions, platforms, and cultural contexts.
-  - Aligns schemas for consistency and scalability in analysis.
-- **Interactive Visualizations**:
-  - Scatterplots for misinformation amplification patterns.
-  - Network diagrams for dissemination pathways.
-  - Choropleth maps for regional vulnerability analysis.
-
----
-
-## **Datasets**
-
-### **AAA**
-- 
-
-### **AA**
-- 
-
----
-
-## **Applications**
-
-1. **AA**:
-   - Identify misinformation hotspots and track the effectiveness of interventions.
-   - Design culturally sensitive campaigns targeting misinformation-prone regions.
-
-2. **AA**:
-   - Tailor fact-checking strategies based on audience demographics.
-   - Monitor and visualize the impact of fact-checking efforts.
-
-3. **AA**:
-   - Explore correlations between cultural factors and misinformation susceptibility.
-   - Analyze temporal trends and the role of social context in misinformation acceptance.
-
-
----
-
-## **Getting Started**
-
-### **Prerequisites**
-- Python 3.6 or higher
-- Required libraries:
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `networkx`
-  - `flask`
-  - `shap`
-
-### **Installation**
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/AidaCPL/INFOSCI301_Final_Project.git
-cd misinformation-visualization
-pip install -r requirements.txt
-```
-
-### **Usage**
-1. **Preprocess Data**:
-   ```bash
-   python scripts/data_preprocessing.ipynb
-   ```
-2. **Generate Visualizations**:
-   ```bash
-   python scripts/visualization_tools.py
-   ```
----
-
-## **Final Poster**
-<p align="center">
-  <kbd>
-    <img src="INFORSCI 103 - Poster .png" alt="Final Poster" width="600"/>
-  </kbd>
-</p>
-
----
-
-## **Demo Video**
-VIDEO LINK IS HERE
-
-
----
-
-## **Statement of Intellectual and Professional Growth**
-This project has been a pivotal experience in both our academic and professional growth. By integrating diverse datasets and applying advanced visualization techniques, we have developed a deeper understanding of how to tackle complex problems using interdisciplinary tools. Working hands-on with network analysis, interactive visualizations, and machine learning has not only strengthened our technical skills but also enhanced our ability to communicate complex data insights effectively. Collaborative efforts with our peers have improved our teamwork and communication, equipping us for future roles in data-driven research and policy-making.
-
-The exploration of misinformation dynamics has been particularly impactful, bridging computational methods with pressing social issues. The knowledge and skills we have gained from this course will undoubtedly shape our future academic and professional endeavors, fostering a commitment to innovation and the ethical use of data science.
-
----
-
-## **Navigation Instructions**
-
-This repository is organized to facilitate ease of access to all components of the project. Below is an overview of where to find key resources:
-
-- **Code for Simulations, Data Processing, and Visualizations**:
-  - Located in the [`Code/`](Code/READ.md) directory.
-
-- **Sample Datasets or Processed Data**:
-  - Found in the [`Data/`](Data/README.md) folder.
-  - Contains raw and processed datasets.
-
-- **Documentation for Dependencies and Environment Setup**:
-  - Detailed in the [`Docs/`](Docs/READ.md) directory.
-    
-- **Pilot Visualizations or Figures**:
-  - Stored in the [`Visualizations/`](Visualization/README.md) folder.
-  - Visualization methods:Ploty for interactive (Volcano plot and number of datasets per country), GeoJSON for the template of world map, Folium for visualization and specific info within a country.
-
----
-
-## **Contributing**
-We welcome contributions to enhance the repository. Please submit issues or pull requests to suggest improvements or report bugs.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## **References**
-This project builds upon datasets and methodologies outlined in:
-- aa
-- aa
+Feel free to adjust any sections further as needed, and remember to update paths for files like the demo video or poster based on where they are located in the repository.
