@@ -91,7 +91,7 @@ There are two places in the code that you will need to modify:
 1. Change the path to your GSE datasets.
 2. Modify the line: 
    ```python
-   min_files = (num)
+   min_files = 2
    ```
 Choose a value between 2 - 3 (maximum number of GSE datasets). Ideally, choose the largest number possible while ensuring that the result includes at least 200 genes. If you select a lower number, make sure that the datasets still provide sufficient gene data for accurate analysis. 
 
