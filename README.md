@@ -90,9 +90,19 @@ pip install -r requirements.txt
 
 ### Code Usage
 
+#### `Final_Map.py`
+
+You do not need to run other codes for this. You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your data. Additionally, new changes should be added directly to this file to modify the Final APP.
+
+```python
+python -m Final_Map.py
+```
+
+#### Reproducing from Scratch
 We have designed an efficient and seamless workflow to generate all necessary results locally. Each script operates independently, eliminating any dependencies between them. Therefore, we do not provide a combined execution script. Simply run each script individually on your local environment as needed.
 
-#### For `Step2.ipynb`
+
+##### For `Step2.ipynb`
 
 Please ensure you have the GSE datasets ready. You can use ours [here](./Data). The code provided requires 3 datasets, but this number can be adjusted with minor modifications to the code.
 
@@ -106,17 +116,13 @@ Choose a value between 2 - 3 (maximum number of GSE datasets). Ideally, choose t
 
 Once these modifications are done, you can run the notebook to generate the required outputs for Step 2.
 
-#### For `Step3 + Step4.ipynb`
+##### For `Step3 + Step4.ipynb`
 
 You will need the results from `Step2.ipynb` and **TCGA Breast.csv** from [here](./Data). Modify the input and output file names accordingly to fit your data.
 
-#### For `Table.ipynb`
+##### For `Table.ipynb`
 
 You only need **Dataset Count.csv** from [here](./Data). Modify the path to your data.
-
-#### For `Final_Map.py`
-
-You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your data. Additionally, new changes should be added directly to this file to modify the Final APP.
 
 ## Final APP
 
