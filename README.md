@@ -99,8 +99,7 @@ python -m Final_Map.py
 ```
 
 #### **Reproducing from Scratch**
-We have designed an efficient and seamless workflow to generate all necessary results locally. Each script operates independently, eliminating any dependencies between them. Therefore, we do not provide a combined execution script. Simply run each script individually on your local environment as needed.
-
+We have designed an efficient and seamless workflow to generate all necessary results locally.
 
 ##### **For `Step2.ipynb`**
 
