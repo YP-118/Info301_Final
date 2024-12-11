@@ -108,4 +108,10 @@ You only need **Dataset Count.csv** from [here](./Data). Modify the path to your
 
 #### For `Map.py`
 
-You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your data.
+You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your data. Additionally, new changes should be added directly to this file to modify the Final APP.
+
+## Final APP
+
+You can access the final app online via this [link](https://laurisisme.github.io/worldmap/). Additionally, we provide a local version of the app [here](./Visualization/Map.html). It contains all the figures generated throughout the project.
+
+ 
