@@ -54,3 +54,20 @@ To navigate through this repository, please follow the instructions below:
 ### Pilot Visualizations & Figures
 - Sample visualizations and figures are available in the **`/Visualization`** folder.
 
+## Requirements
+
+To get started with the project, you will need to install the following dependencies:
+
+- pandas
+- pyecharts
+- xgboost
+- shap
+- matplotlib
+- scikit-learn
+- plotly
+- numpy
+
+You can install these dependencies by running the following command:
+
+```bash
+pip install -r requirements.txt
