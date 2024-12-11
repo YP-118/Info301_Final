@@ -20,3 +20,5 @@ These files contain data across all countries.
 - **Step 1 Files**: These contain results from cross-analysis performed across multiple countries.
 
 - **Step 2 Files**: These represent the top 50 genes identified for each machine learning model used in the analysis.
+
+- **Other Files**: Can be identified based on their names.
