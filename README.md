@@ -95,7 +95,7 @@ pip install -r requirements.txt
 You do not need to run other codes for this. You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your data. Additionally, new changes should be added directly to this file to modify the Final APP.
 
 ```python
-python -m Final_Map.py
+python Final_Map.py
 ```
 
 #### **Reproducing from Scratch**
