@@ -53,17 +53,17 @@ Throughout this course, we have deepened our understanding of data visualization
 ## Navigation Instructions
 To navigate through this repository, please follow the instructions below:
 
-### Code
-- The code for simulations, data processing, and visualizations can be found in the **`/Code`** folder.
+### [Code](./Code)
+The code for simulations, data processing, and visualizations can be found in the `/Code` folder.
 
-### Sample Datasets & Processed Data
-- All datasets used in this project are located in the **`/Data`** folder. This includes both raw and processed data.
+### [Sample Datasets & Processed Data](./Data)
+All datasets used in this project are located in the `/Data` folder. This includes both raw and processed data.
 
-### Documentation
-- Additional Documents can be found in the **`/Docs`** folder.
+### [Documentation](./Docs)
+Additional documents can be found in the `/Docs` folder.
 
-### Pilot Visualizations & Figures
-- Sample visualizations and figures are available in the **`/Visualization`** folder.
+### [Pilot Visualizations & Figures](./Visualization)
+Sample visualizations and figures are available in the `/Visualization` folder.
 
 ## Implementation
 
