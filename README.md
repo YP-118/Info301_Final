@@ -5,6 +5,10 @@
 - **Authors**: Yian Pei, Munkh-Orshikh Munkhbold, Lauris Vo
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 
+## Contribution Statement
+
+Each team member contributed according to their strengths, ensuring a balanced and efficient collaboration across all deliverables. Together, we combined our skills to successfully complete the project.
+
 ## Disclaimer
 This is the final project for **INFOSCI 301: Data Visualization and Information Aesthetics**, instructed by **Prof. Luyao Zhang** at **Duke Kunshan University** in **Autumn 2024**.
 
