@@ -18,10 +18,8 @@ We would like to express our gratitude to the following individuals and resource
 ## Embedded Media
 
 ### Demo Video
-<video width="800" controls>
-  <source src="./Docs/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
 
 ### Poster
 <img src="./Docs/Poster.pdf" alt="Project Poster" width="800"/>
@@ -43,17 +41,14 @@ Throughout this course, we have deepened our understanding of data visualization
 To navigate through this repository, please follow the instructions below:
 
 ### Code
-- The code for simulations, data processing, and visualizations can be found in the **`/code`** folder.
+- The code for simulations, data processing, and visualizations can be found in the **`/Code`** folder.
 
 ### Sample Datasets & Processed Data
-- All datasets used in this project are located in the **`/data`** folder. This includes both raw and processed data.
+- All datasets used in this project are located in the **`/Data`** folder. This includes both raw and processed data.
 
-### Documentation for Dependencies & Environment Setup
-- Detailed instructions for setting up the environment and installing dependencies can be found in the **`/docs`** folder.
+### Documentation
+- Additional Documents can be found in the **`/Docs`** folder.
 
 ### Pilot Visualizations & Figures
-- Sample visualizations and figures are available in the **`/visualizations`** folder. These include initial explorations and final presentations.
+- Sample visualizations and figures are available in the **`/Visualization`** folder.
 
----
-
-Feel free to adjust any sections further as needed, and remember to update paths for files like the demo video or poster based on where they are located in the repository.
