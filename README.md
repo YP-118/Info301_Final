@@ -1,10 +1,11 @@
 # **Uncovering Geographic Variability in Breast Cancer Biomarkers: Integrating Machine Learning and Interactive Visualizations for Global Insights**
-<img src="./figure1.png" alt="Flow" width="800"/>
 
 ## Project Information
 
 - **Authors**: Yian Pei, Munkh-Orshikh Munkhbold, Lauris Vo
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
+- **Project Summary**
+  <img src="./figure1.png" alt="Flow" width="800"/>
 
 ## Disclaimer
 This is the final project for **INFOSCI 301: Data Visualization and Information Aesthetics**, instructed by **Prof. Luyao Zhang** at **Duke Kunshan University** in **Autumn 2024**.
