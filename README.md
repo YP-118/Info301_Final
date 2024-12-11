@@ -114,7 +114,7 @@ You will need the results from `Step2.ipynb` and **TCGA Breast.csv** from [here]
 
 You only need **Dataset Count.csv** from [here](./Data). Modify the path to your data.
 
-#### For `Map.py`
+#### For `Final_Map.py`
 
 You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your data. Additionally, new changes should be added directly to this file to modify the Final APP.
 
