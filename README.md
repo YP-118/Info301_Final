@@ -16,8 +16,16 @@ We would like to express our gratitude to the following individuals and resource
 - **NCBI** for the breast cancer datasets and **GEOJSON** for geographic data.
 
 ## Embedded Media
-- [Demo Video](./Docs/Demo.mp4)
-- ![Poster](./Docs/Poster.pdf)
+
+### Demo Video
+<video width="800" controls>
+  <source src="./Docs/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Poster
+<img src="./Docs/Poster.pdf" alt="Project Poster" width="800"/>
+
 
 ## Statement of Intellectual and Professional Growth
 Throughout this course, we have deepened our understanding of data visualization techniques and their role in effectively communicating complex information. This project has enhanced our ability to design interactive and meaningful visualizations, and it has also improved our skills in presenting data-driven insights. The collaborative nature of this project has strengthened our teamwork and communication skills, as we worked together to solve data-related challenges and incorporate visual storytelling in a professional setting.
