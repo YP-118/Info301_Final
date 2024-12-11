@@ -120,6 +120,6 @@ You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path
 
 ## Final APP
 
-You can access the final app online via this [link](https://laurisisme.github.io/worldmap/). Additionally, we provide a local version of the app [here](./Visualization/Map.html). It contains all the figures generated throughout the project.
+You can access the final app online via this [link](https://laurisisme.github.io/worldmap/). Additionally, we provide a local version of the app [here](./Visualization/Map.html). It contains all the figures generated throughout the project. Please refer to our [demo video](#demo-video).
 
  
