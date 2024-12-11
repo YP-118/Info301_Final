@@ -103,8 +103,8 @@ You will need the results from `Step2.ipynb` and **TCGA Breast.csv** from [here]
 
 #### For `Table.ipynb`
 
-You only need **Dataset_Count.csv** from [here](./Data). Modify the path to your link of the data.
+You only need **Dataset Count.csv** from [here](./Data). Modify the path to your link of the data.
 
 #### For `Map.py`
 
-You only need **Processed_World_Data.csv** from [here](./Data). Modify the path to your link of the data.
+You only need **Processed_Breast_Data.csv** from [here](./Data). Modify the path to your link of the data.
