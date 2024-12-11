@@ -4,8 +4,10 @@
 
 - **Authors**: Yian Pei, Munkh-Orshikh Munkhbold, Lauris Vo
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
-- **Project Summary**
-  <img src="./figure1.png" alt="Flow" width="800"/>
+
+### Report Summary
+
+<img src="./figure1.png" alt="Flow" width="800"/>
 
 ## Disclaimer
 This is the final project for **INFOSCI 301: Data Visualization and Information Aesthetics**, instructed by **Prof. Luyao Zhang** at **Duke Kunshan University** in **Autumn 2024**.
@@ -38,6 +40,7 @@ Throughout this course, we have deepened our understanding of data visualization
 
 ## Table of Contents
 - [Project Information](#project-information)
+  - [Report Summary](#report-summary)
 - [Disclaimer](#disclaimer)
 - [Contribution Statement](#contribution-statement)
 - [Acknowledgments](#acknowledgments)
