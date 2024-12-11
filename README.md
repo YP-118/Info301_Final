@@ -20,7 +20,7 @@ We would like to express our gratitude to the following individuals and resource
 - ![Poster](./Docs/Poster.pdf)
 
 ## Statement of Intellectual and Professional Growth
-Throughout this course, I have deepened my understanding of data visualization techniques and their role in effectively communicating complex information. This project has enhanced my ability to design interactive and meaningful visualizations, and it has also improved my skills in presenting data-driven insights. The collaborative nature of this project has strengthened my teamwork and communication skills, as we worked together to solve data-related challenges and incorporate visual storytelling in a professional setting.
+Throughout this course, we have deepened our understanding of data visualization techniques and their role in effectively communicating complex information. This project has enhanced our ability to design interactive and meaningful visualizations, and it has also improved our skills in presenting data-driven insights. The collaborative nature of this project has strengthened our teamwork and communication skills, as we worked together to solve data-related challenges and incorporate visual storytelling in a professional setting.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
