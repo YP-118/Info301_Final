@@ -19,7 +19,7 @@ We would like to express our gratitude to the following individuals and resource
 
 ### Demo Video
 
-
+https://github.com/user-attachments/assets/c176d294-00f8-43ff-aca0-615c9463e7bc
 
 ### Poster
 <img src="./Docs/Poster.pdf" alt="Project Poster" width="800"/>
