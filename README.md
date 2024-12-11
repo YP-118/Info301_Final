@@ -77,3 +77,34 @@ You can install these dependencies by running the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Code Usage
+
+We have designed a smooth workflow that can easily provide all necessary data.
+
+#### For `Step2.ipynb`
+
+Please ensure you have the GSE datasets ready. You can use ours [here](./Data). The code provided requires 3 datasets, but this number can be adjusted with minor modifications to the code.
+
+There are two places in the code that you will need to modify:
+1. Change the path to your GSE datasets.
+2. Modify the line: 
+   ```python
+   min_files = (num)
+   ```
+Choose a value between 2 - 3 (maximum number of GSE datasets). Ideally, choose the largest number possible while ensuring that the result includes at least 200 genes. If you select a lower number, make sure that the datasets still provide sufficient gene data for accurate analysis. 
+
+Once these modifications are done, you can run the notebook to generate the required outputs for Step 2.
+
+#### For `Step3 + Step4.ipynb`
+
+You will need the results from `Step2.ipynb` and **TCGA Breast.csv** from [here](./Data). Modify the input and output file names accordingly to fit your data.
+
+#### For `Table.ipynb`
+
+You only need **Dataset_Count.csv** from [here](./Data). Modify the path to your link of the data.
+
+#### For `Map.py`
+
+You only need **Processed_World_Data.csv** from [here](./Data). Modify the path to your link of the data.
