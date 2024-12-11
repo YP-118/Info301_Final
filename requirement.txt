@@ -1,0 +1,8 @@
+pandas
+pyecharts
+xgboost
+shap
+matplotlib
+scikit-learn
+plotly
+numpy
