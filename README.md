@@ -21,6 +21,8 @@ We would like to express our gratitude to the following individuals and resource
 
 https://github.com/user-attachments/assets/c176d294-00f8-43ff-aca0-615c9463e7bc
 
+Original Demo Video can be found [here](./Docs/Demo.mp4).
+
 ### Poster
 <img src=".Poster.png" alt="Project Poster" width="800"/>
 
