@@ -1,5 +1,5 @@
 # **Uncovering Geographic Variability in Breast Cancer Biomarkers: Integrating Machine Learning and Interactive Visualizations for Global Insights**
-
+<img src="./figure1.png" alt="Flow" width="800"/>
 ## Project Information
 
 - **Authors**: Yian Pei, Munkh-Orshikh Munkhbold, Lauris Vo
