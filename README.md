@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ### Code Usage
 
-We have designed a smooth workflow that can easily provide all necessary data.
+We have designed an efficient and seamless workflow to generate all necessary results locally. Each script operates independently, eliminating any dependencies between them. Therefore, we do not provide a combined execution script. Simply run each script individually on your local environment as needed.
 
 #### For `Step2.ipynb`
 
